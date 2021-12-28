@@ -1,2 +1,2 @@
-# CSGO-random-weapons
-A Vscript to give all players a randomly selected loadout on round start
+# random-somethings
+A Vscript to give all players a randomly selected something on round start.
